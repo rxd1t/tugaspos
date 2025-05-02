@@ -4,8 +4,7 @@ Proyek ini merupakan implementasi sederhana sistem Point of Sales untuk keperlua
 
 ## 🛠️ Bahasa Pemrograman & Teknologi
 
-* PHP
-* MySQL
+* JavaScript
 * HTML/CSS
 
 ## 📌 Fitur
