@@ -16,5 +16,5 @@ Proyek ini merupakan implementasi sederhana sistem Point of Sales untuk keperlua
 ## 📎 Dokumentasi
 
 Dokumentasi tugas dapat dilihat melalui tautan berikut:
-[Google Slides Tugas POS](https://bit.ly/4lZ9MRb)
+[Google Slides Tugas POS](https://www.canva.com/design/DAGPB-v55nk/6cdxw8ldpHB7EekQ67PcFQ/edit)
 
