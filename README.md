@@ -1,19 +1,20 @@
-## Tentang POS
+# 🧾 Tugas POS (Point of Sales)
 
-POS atau kepanjangan dari <i>Poin Of Sales</i> merupakan aplikasi berbasis website yang digunakan untuk mengelola transaksi penjualan di toko atau tempat jualan. Aplikasi ini memiliki kegunaan dan manfaat seperti :
-- pengelolaan data produk
-- pengelolaan data pelanggan
-- pengelolaan transaksi penjualan
-- pengelolaan data kasir
+Proyek ini merupakan implementasi sederhana sistem Point of Sales untuk keperluan tugas. Fokus utama saat ini adalah pada pengelolaan kategori produk.
 
-## Fitur
+## 🛠️ Bahasa Pemrograman & Teknologi
 
-Fitur yang dimiliki untuk saat ini yaitu :
-- view kategori
-- lihat data kategori
+* PHP
+* MySQL
+* HTML/CSS
 
-# Hasil
-Untuk hasil ada [disini](https://docs.google.com/presentation/d/1u4M3RJaJGzc2oXyrq1tsXHKlQwMjyI6-Kpv5MX8qhOk/edit?usp=sharing)
-## License
+## 📌 Fitur
 
-Copyright (c) 2025 [Zaidan Pasya Rusmiadi](https://www.instagram.com/zai.p_/profilecard/)
+* Melihat daftar kategori produk
+* Melihat detail data kategori
+
+## 📎 Dokumentasi
+
+Dokumentasi tugas dapat dilihat melalui tautan berikut:
+[Google Slides Tugas POS](https://bit.ly/4lZ9MRb)
+
